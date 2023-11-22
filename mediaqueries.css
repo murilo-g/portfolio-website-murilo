@@ -47,6 +47,10 @@
     #footer {
         height: 40vh;
     }
+    footer nav {
+        height: fit-content;
+        margin-bottom: 2rem;
+    }
     #profile {
         height: 83vh;
         margin-bottom: 0;
@@ -54,10 +58,7 @@
     article {
         font-size: 1rem;
     }
-    footer nav {
-        height: fit-content;
-        margin-bottom: 2rem;
-    }
+    
     .about-containers, 
     .btn-container {
         flex-wrap: wrap;
